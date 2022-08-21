@@ -52,7 +52,7 @@ const SectionWrapper = ({
             showBtn && (
               <Button
                 assetUrl={assets.expo}
-                link="deployed nft marketplace rn app"
+                link="https://github.com/vhasic/NFT-marketplace-app"
               />
             )
           }

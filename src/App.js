@@ -52,3 +52,5 @@ function App() {
 export default App;
 
 // Configuring Tailwind CSS for React project: https://tailwindcss.com/docs/guides/create-react-app
+
+// Deploying on IPFS with: https://fleek.co/
