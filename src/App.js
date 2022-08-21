@@ -54,3 +54,14 @@ export default App;
 // Configuring Tailwind CSS for React project: https://tailwindcss.com/docs/guides/create-react-app
 
 // Deploying on IPFS with: https://fleek.co/
+
+/* Deploying on GitHub Pages:
+  1. npm install gh-pages
+  2. Add to package.json: 
+  - "homepage": "https://<username>.github.io/<repository-name>/"
+  - "scripts": {  "predeploy": "npm run build",
+ "deploy": "gh-pages -d build",
+ ...}
+  3. npm run deploy
+
+ */
